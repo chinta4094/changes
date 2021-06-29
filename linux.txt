@@ -1,0 +1,82 @@
+Linux (/ˈlinʊks/ (About this soundlisten) LEEN-uuks or /ˈlɪnʊks/ LIN-uuks[9]) is a family of open-source Unix-like operating systems based on the Linux kernel,[10] an operating system kernel first released on September 17, 1991, by Linus Torvalds.[11][12][13] Linux is typically packaged in a Linux distribution.
+
+Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Many Linux distributions use the word "Linux" in their name, but the Free Software Foundation uses the name "GNU/Linux" to emphasize the importance of GNU software, causing some controversy.[14][15]
+
+Popular Linux distributions[16][17][18] include Debian, Fedora, and Ubuntu. Commercial distributions include Red Hat Enterprise Linux and SUSE Linux Enterprise Server. Desktop Linux distributions include a windowing system such as X11 or Wayland, and a desktop environment such as GNOME or KDE Plasma. Distributions intended for servers may omit graphics altogether, or include a solution stack such as LAMP. Because Linux is freely redistributable, anyone may create a distribution for any purpose.[19]
+
+Linux was originally developed for personal computers based on the Intel x86 architecture, but has since been ported to more platforms than any other operating system.[20] Because of the dominance of the Linux-based Android on smartphones, Linux also has the largest installed base of all general-purpose operating systems.[21][22][23][24] Although it is used by only around 2.3 percent of desktop computers,[25][26] the Chromebook, which runs the Linux kernel-based Chrome OS, dominates the US K–12 education market and represents nearly 20 percent of sub-$300 notebook sales in the US.[27] Linux is the leading operating system on servers (over 96.4% of the top 1 million web servers' operating systems are Linux),[28] leads other big iron systems such as mainframe computers, and is the only OS used on TOP500 supercomputers (since November 2017, having gradually eliminated all competitors).[29][30][31]
+
+Linux also runs on embedded systems, i.e. devices whose operating system is typically built into the firmware and is highly tailored to the system. This includes routers, automation controls, smart home technology (like Google Nest),[32] televisions (Samsung and LG Smart TVs use Tizen and WebOS, respectively),[33][34][35] automobiles (for example, Tesla, Audi, Mercedes-Benz, Hyundai, and Toyota all rely on Linux),[36] digital video recorders, video game consoles, and smartwatches.[37] The Falcon 9's and the Dragon 2's avionics use a customized version of Linux.[38]
+
+Linux is one of the most prominent examples of free and open-source software collaboration. The source code may be used, modified and distributed commercially or non-commercially by anyone under the terms of its respective licenses, such as the GNU General Public License.[19]
+
+90% of all cloud infrastructure is powered by Linux including supercomputers and cloud providers.[39] 74% of smartphones in the world are Linux-based.[40]
+Precursors
+
+Linus Torvalds, principal author of the Linux kernel
+The Unix operating system was conceived and implemented in 1969, at AT&T's Bell Labs, in the United States by Ken Thompson, Dennis Ritchie, Douglas McIlroy, and Joe Ossanna.[41] First released in 1971, Unix was written entirely in assembly language, as was common practice at the time. In 1973 in a key, pioneering approach, it was rewritten in the C programming language by Dennis Ritchie (with the exception of some hardware and I/O routines). The availability of a high-level language implementation of Unix made its porting to different computer platforms easier.[42]
+
+Due to an earlier antitrust case forbidding it from entering the computer business, AT&T was required to license the operating system's source code to anyone who asked. As a result, Unix grew quickly and became widely adopted by academic institutions and businesses. In 1984, AT&T divested itself of Bell Labs; freed of the legal obligation requiring free licensing, Bell Labs began selling Unix as a proprietary product, where users were not legally allowed to modify Unix. The GNU Project, started in 1983 by Richard Stallman, had the goal of creating a "complete Unix-compatible software system" composed entirely of free software. Work began in 1984.[43] Later, in 1985, Stallman started the Free Software Foundation and wrote the GNU General Public License (GNU GPL) in 1989. By the early 1990s, many of the programs required in an operating system (such as libraries, compilers, text editors, a command-line shell, and a windowing system) were completed, although low-level elements such as device drivers, daemons, and the kernel, called GNU Hurd, were stalled and incomplete.[44]
+
+Linus Torvalds has stated that if the GNU kernel had been available at the time (1991), he would not have decided to write his own.[45] Although not released until 1992, due to legal complications, development of 386BSD, from which NetBSD, OpenBSD and FreeBSD descended, predated that of Linux. Torvalds has also stated that if 386BSD had been available at the time, he probably would not have created Linux.[46]
+
+MINIX was created by Andrew S. Tanenbaum, a computer science professor, and released in 1987 as a minimal Unix-like operating system targeted at students and others who wanted to learn operating system principles. Although the complete source code of MINIX was freely available, the licensing terms prevented it from being free software until the licensing changed in April 2000.[47]
+
+Creation
+In 1991, while attending the University of Helsinki, Torvalds became curious about operating systems.[48] Frustrated by the licensing of MINIX, which at the time limited it to educational use only,[47] he began to work on his own operating system kernel, which eventually became the Linux kernel.
+
+Torvalds began the development of the Linux kernel on MINIX and applications written for MINIX were also used on Linux. Later, Linux matured and further Linux kernel development took place on Linux systems.[49] GNU applications also replaced all MINIX components, because it was advantageous to use the freely available code from the GNU Project with the fledgling operating system; code licensed under the GNU GPL can be reused in other computer programs as long as they also are released under the same or a compatible license. Torvalds initiated a switch from his original license, which prohibited commercial redistribution, to the GNU GPL.[50] Developers worked to integrate GNU components with the Linux kernel, making a fully functional and free operating system.[51]
+
+Naming
+
+5.25-inch floppy disks holding a very early version of Linux
+Linus Torvalds had wanted to call his invention "Freax", a portmanteau of "free", "freak", and "x" (as an allusion to Unix). During the start of his work on the system, some of the project's makefiles included the name "Freax" for about half a year. Torvalds had already considered the name "Linux", but initially dismissed it as too egotistical.[52]
+
+In order to facilitate development, the files were uploaded to the FTP server (ftp.funet.fi) of FUNET in September 1991. Ari Lemmke, Torvalds' coworker at the Helsinki University of Technology (HUT), who was one of the volunteer administrators for the FTP server at the time, did not think that "Freax" was a good name, so he named the project "Linux" on the server without consulting Torvalds.[52] Later, however, Torvalds consented to "Linux".
+
+According to a newsgroup post by Torvalds,[9] the word "Linux" should be pronounced (/ˈlɪnʊks/ (About this soundlisten) LIN-uuks) with a short ‘i’ as in ‘print’ and ‘u’ as in ‘put’. To further demonstrate how the word "Linux" should be pronounced, he included an audio guide (About this soundlisten (help·info)) with the kernel source code.[53] Contradictory, in this recording, he pronounces ‘Linux’ (/ˈlinʊks/ (About this soundlisten) LEEN-uuks with a short but close unrounded front vowel.
+
+Commercial and popular uptake
+Main article: Linux adoption
+
+Ubuntu, a popular Linux distribution
+
+Nexus 5X running Android
+Adoption of Linux in production environments, rather than being used only by hobbyists, started to take off first in the mid-1990s in the supercomputing community, where organizations such as NASA started to replace their increasingly expensive machines with clusters of inexpensive commodity computers running Linux. Commercial use began when Dell and IBM, followed by Hewlett-Packard, started offering Linux support to escape Microsoft's monopoly in the desktop operating system market.[54]
+
+Today, Linux systems are used throughout computing, from embedded systems to virtually all supercomputers,[31][55] and have secured a place in server installations such as the popular LAMP application stack. Use of Linux distributions in home and enterprise desktops has been growing.[56][57][58][59][60][61][62] Linux distributions have also become popular in the netbook market, with many devices shipping with customized Linux distributions installed, and Google releasing their own Chrome OS designed for netbooks.
+
+Linux's greatest success in the consumer market is perhaps the mobile device market, with Android being one of the most dominant operating systems on smartphones and very popular on tablets and, more recently, on wearables. Linux gaming is also on the rise with Valve showing its support for Linux and rolling out SteamOS, its own gaming-oriented Linux distribution. Linux distributions have also gained popularity with various local and national governments, such as the federal government of Brazil.[63]
+
+Current development
+
+In-flight entertainment system booting up displaying the Linux logo
+Greg Kroah-Hartman is the lead maintainer for the Linux kernel and guides its development.[64] William John Sullivan is the executive director of the Free Software Foundation,[65] which in turn supports the GNU components.[66] Finally, individuals and corporations develop third-party non-GNU components. These third-party components comprise a vast body of work and may include both kernel modules and user applications and libraries.
+
+Linux vendors and communities combine and distribute the kernel, GNU components, and non-GNU components, with additional package management software in the form of Linux distributions.
+
+Design
+Many open source developers agree that the Linux kernel was not designed but rather evolved through natural selection. Torvalds considers that although the design of Unix served as a scaffolding, "Linux grew with a lot of mutations - and because the mutations were less than random, they were faster and more directed than alpha-particles in DNA."[67] Raymond considers Linux's revolutionary aspects to be social, not technical: before Linux, complex software was designed carefully by small groups, but "Linux evolved in a completely different way. From nearly the beginning, it was rather casually hacked on by huge numbers of volunteers coordinating only through the Internet. Quality was maintained not by rigid standards or autocracy but by the naively simple strategy of releasing every week and getting feedback from hundreds of users within days, creating a sort of rapid Darwinian selection on the mutations introduced by developers."[68] Bryan Cantrill, an engineer of a competing OS, agrees that "Linux wasn't designed, it evolved", but considers this to be a limitation, proposing that some features, especially those related to security,[69] cannot be evolved into, "this is not a biological system at the end of the day, it's a software system."[70] A Linux-based system is a modular Unix-like operating system, deriving much of its basic design from principles established in Unix during the 1970s and 1980s. Such a system uses a monolithic kernel, the Linux kernel, which handles process control, networking, access to the peripherals, and file systems. Device drivers are either integrated directly with the kernel, or added as modules that are loaded while the system is running.[71]
+
+The GNU userland is a key part of most systems based on the Linux kernel, with Android being the notable exception. The Project's implementation of the C library works as a wrapper for the system calls of the Linux kernel necessary to the kernel-userspace interface, the toolchain is a broad collection of programming tools vital to Linux development (including the compilers used to build the Linux kernel itself), and the coreutils implement many basic Unix tools. The project also develops Bash, a popular CLI shell. The graphical user interface (or GUI) used by most Linux systems is built on top of an implementation of the X Window System.[72] More recently, the Linux community seeks to advance to Wayland as the new display server protocol in place of X11. Many other open-source software projects contribute to Linux systems.
+
+Various layers within Linux, also showing separation between the userland and kernel space
+User mode	User applications	bash, LibreOffice, GIMP, Blender, 0 A.D., Mozilla Firefox, ...
+System components	Daemons:
+systemd, runit, udevd, polkitd, sshd, smbd...	Window manager:
+X11, Wayland, SurfaceFlinger (Android)	Graphics:
+Mesa, AMD Catalyst, ...	Other libraries:
+GTK, Qt, EFL, SDL, SFML, FLTK, GNUstep, ...
+C standard library	fopen, execv, malloc, memcpy, localtime, pthread_create... (up to 2000 subroutines)
+glibc aims to be fast, musl and uClibc target embedded systems, bionic written for Android, etc. All aim to be POSIX/SUS-compatible.
+Kernel mode	Linux kernel	stat, splice, dup, read, open, ioctl, write, mmap, close, exit, etc. (about 380 system calls)
+The Linux kernel System Call Interface (SCI, aims to be POSIX/SUS-compatible)[citation needed]
+Process scheduling
+subsystem	IPC
+subsystem	Memory management
+subsystem	Virtual files
+subsystem	Network
+subsystem
+Other components: ALSA, DRI, evdev, LVM, device mapper, Linux Network Scheduler, Netfilter
+Linux Security Modules: SELinux, TOMOYO, AppArmor, Smack
+Hardware (CPU, main memory, data storage devices, etc.)
